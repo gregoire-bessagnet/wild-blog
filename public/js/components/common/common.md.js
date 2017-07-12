@@ -1,8 +1,6 @@
 import navbarComponent from './navbar'
-import * as moment from 'moment';
-import 'moment/locale/fr';
 
-let commonModule = angular.module('app.common', [])
+let commonModule = angular.module('app.common', ['angularMoment'])
     .component('navbar', navbarComponent)
     .name
 
