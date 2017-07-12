@@ -1,7 +1,16 @@
-# wild-blog
-A simple MEAN Stack blog
+# Wild Code School - Last checkpoint
+A simple MEAN Stack blog used as a project for the final evaluation of JS students of [Wild Code School](http://wildcodeschool.fr).
 
-This app is used as a project for the final evaluation of JS students of Wild Code School. 
-There's nothing in the readme, all the exercices that students need to do are in a private Google Drive. 
+We had to deal with multiple exercices **from debugging to write documentation, factoring or implementing new functions**.  
+This Readme is a part of theses exercices.
 
-This repository is only there so that it can be forked by students. 
+![](http://www.jds.fr/medias/image/0-42179800-1496335948-64638-600-600-F.jpg =200)
+
+## How to run run this app locally
+
+### Start the project
+
+1. Git clone this project
+2. Run `npm i` 
+3. Finally, start it with `npm run dev`
+4. Watch it live at [localhost:8080](http://localhost:8080)
