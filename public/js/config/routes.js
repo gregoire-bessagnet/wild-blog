@@ -32,6 +32,13 @@ export default ['$stateProvider', '$urlRouterProvider', '$locationProvider', ($s
             }]
         })
         .state('algo1', {
-            url: '/algo1'
-        })
+        url: '/algo1',
+        template: '',
+        controller: 'Algo1Controller',
+        // resolve: {
+        //     users: function(UserService) {
+        //     return UserService.list();
+        //     }
+        // }
+        });
 }]
