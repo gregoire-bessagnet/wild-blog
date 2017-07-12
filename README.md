@@ -4,7 +4,7 @@ A simple MEAN Stack blog used as a project for the final evaluation of JS studen
 We had to deal with multiple exercices **from debugging to write documentation, factoring or implementing new functions**.  
 This Readme is a part of theses exercices.
 
-![](http://www.jds.fr/medias/image/0-42179800-1496335948-64638-600-600-F.jpg =200)
+<img src="http://www.jds.fr/medias/image/0-42179800-1496335948-64638-600-600-F.jpg" width="200">
 
 ## How to run run this app locally
 
