@@ -1,6 +1,6 @@
 let navbar = {
     templateUrl: 'js/components/common/navbar.html',
-    controller: ['UsersService', '$state', function(UsersService, $state) {
+    controller: ['UsersService', '$state', 'moment', function(UsersService, $state, moment) {
         'use strict'
         angular.extend(this, {
             $onInit() {
